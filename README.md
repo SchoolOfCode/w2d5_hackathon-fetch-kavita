@@ -54,3 +54,17 @@ Now that you have an understanding of what data you're working with and have com
 ## Step 3 - Build (The rest of the day!)
 
 Translate your plan into code, and turn your ideas into reality. Enjoy!
+
+
+plan for the day:
+
+1. fetch the data using API 
+2. Look at the format of the data and decide how we are going to use it 
+3. use the dom/html to format our page 
+4. make the page responsive
+5. format our page using CSS
+6. add differently functionality - choice of difficulty, number of questions 
+
+
+
+
